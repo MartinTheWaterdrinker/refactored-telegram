@@ -1,5 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg"
+import "./App.css"
+import { Button } from "semantic-ui-react"
 
 function App() {
   return (
@@ -18,8 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <Button>Testing</Button>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
