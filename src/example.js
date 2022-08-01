@@ -1,6 +1,5 @@
 import "./App.css"
 import React, { Dropdown } from "semantic-ui-react"
-import { render } from "@testing-library/react"
 import { Component } from "react"
 const options = [
   { key: 1, text: "1", value: 1 },
